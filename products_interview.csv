@@ -1,0 +1,191 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,is_active,launch_date,weight_kg,package_size,has_orders
+10028,Aurora Serum 10028,Beauty,Serum,Aurora,25.29,40.65,True,2024-03-11,11.61,M,True
+10169,Zephyr Desk 10169,Office,Desk,Zephyr,34.27,59.5,True,2024-09-16,0.4,M,True
+10525,Fjord Tent 10525,Outdoors,Tent,Fjord,22.44,31.35,True,2025-08-09,0.58,L,True
+11677,Radiant Sneakers 11677,Apparel,Sneakers,Radiant,90.78,144.84,True,2022-05-14,11.25,XS,True
+12116,Northstar Lantern 12116,Outdoors,Lantern,Northstar,29.08,39.92,True,2024-09-26,5.38,XS,True
+12331,Apexon Puzzle 12331,Toys,Puzzle,Apexon,37.45,74.99,True,2022-06-05,6.37,M,True
+12757,Zephyr Shampoo 12757,Beauty,Shampoo,Zephyr,9.02,19.99,True,2021-03-13,8.43,L,True
+12773,Solara Blocks 12773,Toys,Blocks,Solara,50.89,90.38,False,2025-11-06,11.29,L,True
+13514,Solara Keyboard 13514,Electronics,Keyboard,Solara,90.48,139.43,True,2022-09-23,6.04,M,True
+13718,Everest Pen Set 13718,Office,Pen Set,Everest,46.96,78.97,False,2024-09-25,11.91,M,True
+14138,BluePeak Lamp 14138,Home,Lamp,BluePeak,22.37,47.44,True,2022-11-04,10.44,M,True
+14963,Everest Laptop 14963,Electronics,Laptop,Everest,16.33,31.42,True,2021-03-11,0.19,M,True
+15120,Nimbus Monitor 15120,Electronics,Monitor,Nimbus,38.1,79.29,True,2023-12-03,7.07,M,True
+15658,Nimbus Sunscreen 15658,Beauty,Sunscreen,Nimbus,61.44,78.07,True,2025-01-11,7.38,L,True
+15711,Northstar Wiper Blades 15711,Automotive,Wiper Blades,Northstar,15.5,25.1,True,2024-02-28,7.47,S,True
+15752,Everest Jeans 15752,Apparel,Jeans,Everest,38.0,55.62,True,2025-06-05,6.88,M,True
+16643,Everest Pen Set 16643,Office,Pen Set,Everest,53.23,76.4,True,2025-03-24,11.14,S,True
+17966,Solara Tent 17966,Outdoors,Tent,Solara,15.79,34.44,True,2025-09-21,9.46,S,True
+18688,Northstar Chair 18688,Office,Chair,Northstar,38.69,79.48,True,2024-06-08,8.67,S,True
+18701,BluePeak T-Shirt 18701,Apparel,T-Shirt,BluePeak,31.75,46.84,False,2023-08-08,10.32,M,True
+19102,Apexon Mouse 19102,Electronics,Mouse,Apexon,77.31,132.31,True,2021-07-14,1.7,S,True
+19549,Solara Hoodie 19549,Apparel,Hoodie,Solara,13.76,25.63,True,2022-12-07,3.48,L,True
+19951,Nimbus Wiper Blades 19951,Automotive,Wiper Blades,Nimbus,40.79,75.58,False,2023-12-16,2.95,M,True
+20142,Fjord Phone Mount 20142,Automotive,Phone Mount,Fjord,28.03,59.23,True,2022-06-13,2.32,L,True
+21537,Echo Conditioner 21537,Beauty,Conditioner,Echo,9.95,17.8,True,2024-06-08,3.89,S,True
+21606,BluePeak Puzzle 21606,Toys,Puzzle,BluePeak,16.56,31.46,True,2025-03-05,10.63,S,True
+22032,Radiant Water Bottle 22032,Outdoors,Water Bottle,Radiant,18.48,32.9,False,2022-05-06,6.94,XL,True
+22713,BluePeak Bedding 22713,Home,Bedding,BluePeak,51.14,96.57,True,2022-06-20,8.55,M,True
+22879,Fjord Blocks 22879,Toys,Blocks,Fjord,30.19,44.38,True,2021-07-11,0.21,L,True
+22894,Radiant Mouse 22894,Electronics,Mouse,Radiant,37.64,54.81,True,2022-08-27,11.71,S,True
+23976,Fjord Chair 23976,Office,Chair,Fjord,34.29,60.24,True,2024-08-02,0.56,S,True
+24306,Radiant Hiking Boots 24306,Outdoors,Hiking Boots,Radiant,159.84,260.76,True,2024-07-27,9.75,M,True
+24366,Solara Cookware 24366,Home,Cookware,Solara,29.17,47.67,True,2021-09-25,0.78,M,True
+25162,Nimbus Hoodie 25162,Apparel,Hoodie,Nimbus,116.0,176.6,True,2025-04-04,5.61,M,True
+25404,Quanta Headphones 25404,Electronics,Headphones,Quanta,29.5,49.16,False,2025-01-18,5.57,XL,True
+25689,Apexon Headphones 25689,Electronics,Headphones,Apexon,12.17,21.26,True,2023-11-28,1.34,M,True
+25879,Solara Headphones 25879,Electronics,Headphones,Solara,24.78,33.62,True,2022-03-13,4.39,M,True
+26022,Quanta Phone Mount 26022,Automotive,Phone Mount,Quanta,19.25,25.98,True,2022-03-10,7.01,L,True
+27252,Everest Charger 27252,Electronics,Charger,Everest,28.07,43.94,True,2024-04-06,11.95,M,True
+28346,BluePeak Monitor 28346,Electronics,Monitor,BluePeak,16.36,22.75,True,2022-01-02,6.33,L,True
+28680,BluePeak Chair 28680,Office,Chair,BluePeak,22.9,31.65,False,2025-01-06,7.15,M,True
+28849,Echo Water Bottle 28849,Outdoors,Water Bottle,Echo,128.31,173.62,False,2022-07-23,7.92,M,True
+30484,Solara Hoodie 30484,Apparel,Hoodie,Solara,44.47,63.41,True,2023-01-17,1.66,S,True
+31334,Northstar Charger 31334,Electronics,Charger,Northstar,37.3,67.14,True,2021-02-04,8.05,L,True
+31831,Apexon Puzzle 31831,Toys,Puzzle,Apexon,97.24,164.06,True,2023-02-23,5.09,L,True
+32538,Apexon Sneakers 32538,Apparel,Sneakers,Apexon,15.0,20.3,True,2022-03-31,1.29,XS,True
+32935,Northstar Desk 32935,Office,Desk,Northstar,52.89,77.16,True,2021-10-05,4.97,L,True
+33410,Apexon Mouse 33410,Electronics,Mouse,Apexon,29.2,41.31,True,2024-10-30,8.58,L,True
+34313,Apexon Air Purifier 34313,Home,Air Purifier,Apexon,38.45,53.81,True,2022-03-04,2.26,L,True
+35379,Northstar Bedding 35379,Home,Bedding,Northstar,23.97,36.37,True,2022-12-19,6.76,XS,True
+36507,Aurora Headphones 36507,Electronics,Headphones,Aurora,34.37,58.92,True,2021-12-28,3.45,M,True
+37555,Fjord Tablet 37555,Electronics,Tablet,Fjord,82.29,115.36,True,2021-05-07,10.86,XL,True
+37988,Apexon Jacket 37988,Apparel,Jacket,Apexon,84.77,113.24,True,2024-05-31,2.82,M,True
+38122,BluePeak Water Bottle 38122,Outdoors,Water Bottle,BluePeak,44.09,63.69,True,2022-08-07,8.82,M,True
+38746,BluePeak Jeans 38746,Apparel,Jeans,BluePeak,55.73,89.98,True,2025-03-20,10.81,S,True
+39096,Apexon Laptop 39096,Electronics,Laptop,Apexon,14.54,26.75,True,2023-12-31,3.5,S,True
+40679,Radiant T-Shirt 40679,Apparel,T-Shirt,Radiant,4.79,9.44,True,2022-03-24,9.45,L,True
+41513,Solara Laptop 41513,Electronics,Laptop,Solara,71.48,102.71,True,2025-01-28,2.31,S,True
+41638,Nimbus Headphones 41638,Electronics,Headphones,Nimbus,107.41,186.45,True,2021-08-14,6.25,M,True
+41913,Apexon Tablet 41913,Electronics,Tablet,Apexon,42.69,72.69,True,2023-06-09,3.24,M,True
+42622,BluePeak Jeans 42622,Apparel,Jeans,BluePeak,28.44,37.87,True,2023-03-21,1.7,M,True
+42933,BluePeak Air Purifier 42933,Home,Air Purifier,BluePeak,33.13,56.48,True,2022-11-22,11.4,S,True
+43417,Solara Water Bottle 43417,Outdoors,Water Bottle,Solara,71.46,114.4,True,2025-08-23,4.4,XS,True
+43835,Everest Cookware 43835,Home,Cookware,Everest,16.44,27.16,True,2024-06-30,8.2,S,True
+45548,Fjord Hiking Boots 45548,Outdoors,Hiking Boots,Fjord,41.41,57.32,True,2024-05-22,10.28,M,True
+45999,Fjord Chair 45999,Office,Chair,Fjord,59.94,79.35,True,2024-09-20,6.69,M,True
+46218,BluePeak Hoodie 46218,Apparel,Hoodie,BluePeak,19.14,29.55,True,2021-09-07,10.58,S,True
+47070,BluePeak Keyboard 47070,Electronics,Keyboard,BluePeak,128.95,193.12,True,2021-06-05,10.41,XS,True
+48936,Apexon Desk 48936,Office,Desk,Apexon,63.76,89.52,True,2021-10-28,8.39,XL,True
+50049,Vertex Charger 50049,Electronics,Charger,Vertex,82.89,149.04,False,2021-06-24,10.0,M,True
+50555,Apexon Tablet 50555,Electronics,Tablet,Apexon,17.66,28.66,True,2024-11-10,4.5,S,True
+50895,Aurora Board Game 50895,Toys,Board Game,Aurora,44.93,62.48,True,2024-12-15,7.21,M,True
+51428,BluePeak Tent 51428,Outdoors,Tent,BluePeak,64.25,137.85,True,2025-02-27,11.44,L,True
+51659,Everest Jacket 51659,Apparel,Jacket,Everest,33.14,71.89,True,2025-09-03,4.66,L,True
+51982,Radiant Backpack 51982,Outdoors,Backpack,Radiant,64.92,117.11,True,2024-02-18,2.7,M,True
+52763,Quanta Air Purifier 52763,Home,Air Purifier,Quanta,10.52,18.01,True,2025-12-20,8.33,M,True
+52871,Apexon Sneakers 52871,Apparel,Sneakers,Apexon,25.7,51.98,True,2023-10-11,0.29,M,True
+52889,Fjord Lantern 52889,Outdoors,Lantern,Fjord,7.75,16.49,True,2021-12-30,9.42,M,True
+55065,Nimbus Bedding 55065,Home,Bedding,Nimbus,22.2,40.53,True,2024-11-21,0.54,S,True
+55529,Vertex Cookware 55529,Home,Cookware,Vertex,44.29,65.2,True,2022-02-22,6.56,L,True
+55604,Northstar Cookware 55604,Home,Cookware,Northstar,26.34,51.17,True,2025-12-06,0.83,S,True
+56165,BluePeak Desk 56165,Office,Desk,BluePeak,15.18,25.66,True,2022-07-18,7.88,M,True
+56610,Everest Tent 56610,Outdoors,Tent,Everest,44.7,65.46,True,2022-09-19,2.86,M,True
+57269,BluePeak Printer 57269,Office,Printer,BluePeak,51.59,81.1,True,2021-05-25,7.56,S,True
+57651,Everest Lantern 57651,Outdoors,Lantern,Everest,28.69,51.62,True,2024-04-19,10.63,M,True
+57677,Northstar Cookware 57677,Home,Cookware,Northstar,64.16,89.15,True,2021-07-18,7.55,M,True
+58298,Nimbus Hoodie 58298,Apparel,Hoodie,Nimbus,78.35,108.71,True,2024-11-02,1.36,S,True
+59746,Fjord Water Bottle 59746,Outdoors,Water Bottle,Fjord,59.85,115.39,True,2025-02-10,9.1,XS,True
+61541,Vertex Tablet 61541,Electronics,Tablet,Vertex,34.51,44.64,True,2021-07-23,9.11,XL,True
+61633,Everest Hoodie 61633,Apparel,Hoodie,Everest,53.89,74.57,True,2023-01-17,4.78,XL,True
+63232,Northstar Action Figure 63232,Toys,Action Figure,Northstar,20.77,37.28,True,2023-05-29,1.55,S,True
+64337,Fjord Notebook 64337,Office,Notebook,Fjord,34.74,51.9,True,2023-04-01,8.89,XS,True
+65062,Apexon T-Shirt 65062,Apparel,T-Shirt,Apexon,56.25,104.12,True,2025-06-10,5.39,XS,True
+65365,Apexon Conditioner 65365,Beauty,Conditioner,Apexon,25.56,51.26,True,2025-05-21,6.08,S,True
+66327,Solara Bedding 66327,Home,Bedding,Solara,27.77,41.63,True,2025-02-22,10.19,S,True
+66335,Radiant Charger 66335,Electronics,Charger,Radiant,20.72,38.22,True,2023-12-03,5.03,XS,True
+66562,Nimbus Jacket 66562,Apparel,Jacket,Nimbus,55.16,74.54,True,2022-12-05,3.72,M,True
+66784,Zephyr Sunscreen 66784,Beauty,Sunscreen,Zephyr,83.16,144.01,False,2022-06-01,10.93,S,True
+66880,Fjord Printer 66880,Office,Printer,Fjord,75.4,95.23,True,2021-02-17,7.04,XL,True
+67161,Northstar Laptop 67161,Electronics,Laptop,Northstar,28.23,47.74,True,2022-11-16,10.72,M,True
+67620,Solara Hoodie 67620,Apparel,Hoodie,Solara,49.29,88.39,True,2024-02-08,7.64,M,True
+68030,Solara Cookware 68030,Home,Cookware,Solara,59.2,96.68,True,2025-04-11,10.79,M,True
+68066,BluePeak Monitor 68066,Electronics,Monitor,BluePeak,102.37,131.7,True,2023-01-18,4.88,M,True
+69255,Quanta Laptop 69255,Electronics,Laptop,Quanta,18.86,36.41,True,2024-06-26,5.68,L,True
+69662,Northstar Monitor 69662,Electronics,Monitor,Northstar,48.3,80.06,True,2023-05-24,2.79,XL,True
+69665,Northstar Air Purifier 69665,Home,Air Purifier,Northstar,25.94,42.94,True,2021-09-12,5.04,M,True
+70383,Solara Cookware 70383,Home,Cookware,Solara,25.2,39.42,True,2025-01-27,0.21,S,True
+71410,Apexon Bedding 71410,Home,Bedding,Apexon,79.71,116.03,True,2024-07-14,7.29,M,True
+71609,Aurora Chair 71609,Office,Chair,Aurora,52.08,75.83,False,2024-08-17,3.18,S,True
+76117,Vertex Notebook 76117,Office,Notebook,Vertex,34.94,57.17,True,2022-05-24,10.58,M,True
+76388,Northstar Cookware 76388,Home,Cookware,Northstar,77.05,123.57,False,2024-04-29,5.17,M,True
+76524,Nimbus Cookware 76524,Home,Cookware,Nimbus,46.44,60.38,True,2021-04-13,6.5,M,True
+77097,Apexon Cookware 77097,Home,Cookware,Apexon,22.49,32.14,False,2025-05-18,1.21,XS,True
+77188,Zephyr Hiking Boots 77188,Outdoors,Hiking Boots,Zephyr,64.26,94.27,True,2024-09-30,11.52,M,True
+77571,Echo Floor Mats 77571,Automotive,Floor Mats,Echo,15.5,31.33,True,2021-01-29,5.24,S,True
+78284,Vertex T-Shirt 78284,Apparel,T-Shirt,Vertex,20.12,32.43,False,2022-06-18,10.12,M,True
+78355,Everest Bedding 78355,Home,Bedding,Everest,31.85,42.54,True,2025-10-09,6.11,XS,True
+79661,Everest Floor Mats 79661,Automotive,Floor Mats,Everest,32.03,49.7,True,2022-04-03,2.41,S,True
+80714,Northstar Headphones 80714,Electronics,Headphones,Northstar,57.75,93.67,True,2021-12-02,3.59,S,True
+80733,Aurora Car Charger 80733,Automotive,Car Charger,Aurora,29.94,44.14,True,2022-11-20,5.29,L,True
+81582,Radiant Vacuum 81582,Home,Vacuum,Radiant,9.31,18.34,False,2024-01-04,6.95,XL,True
+82805,Apexon Lamp 82805,Home,Lamp,Apexon,22.95,38.85,True,2021-05-27,1.76,M,True
+82955,Solara Serum 82955,Beauty,Serum,Solara,35.34,65.93,True,2024-08-27,3.93,M,True
+83571,Vertex Water Bottle 83571,Outdoors,Water Bottle,Vertex,38.48,50.8,True,2022-11-06,7.33,S,True
+83735,Everest Sunscreen 83735,Beauty,Sunscreen,Everest,39.13,50.78,True,2022-09-17,1.35,L,True
+84291,Apexon Printer 84291,Office,Printer,Apexon,20.04,26.28,True,2022-05-17,2.72,S,True
+84575,Northstar Vacuum 84575,Home,Vacuum,Northstar,24.21,43.24,True,2024-09-19,2.15,L,True
+85413,Quanta Backpack 85413,Outdoors,Backpack,Quanta,59.49,77.29,True,2023-08-23,10.74,L,True
+86398,Northstar Charger 86398,Electronics,Charger,Northstar,38.08,78.1,True,2024-03-07,9.94,M,True
+87410,Solara Hoodie 87410,Apparel,Hoodie,Solara,16.01,33.12,True,2022-12-08,6.88,L,True
+88431,BluePeak Headphones 88431,Electronics,Headphones,BluePeak,17.73,35.35,True,2023-06-02,7.77,S,True
+88729,Vertex Monitor 88729,Electronics,Monitor,Vertex,18.99,30.52,True,2021-10-29,9.33,XL,True
+89204,Nimbus Laptop 89204,Electronics,Laptop,Nimbus,56.76,95.65,True,2022-11-04,9.11,S,True
+89498,Nimbus Hoodie 89498,Apparel,Hoodie,Nimbus,18.09,34.85,True,2024-12-04,6.79,S,True
+89665,Northstar Cookware 89665,Home,Cookware,Northstar,35.7,46.38,True,2022-05-11,8.28,S,True
+90413,Everest Keyboard 90413,Electronics,Keyboard,Everest,17.34,33.32,True,2024-05-26,10.43,M,True
+92066,Fjord Laptop 92066,Electronics,Laptop,Fjord,24.54,31.64,True,2022-01-15,0.68,M,True
+92085,Fjord Air Purifier 92085,Home,Air Purifier,Fjord,26.6,50.51,True,2025-01-31,1.28,S,True
+92371,Everest Monitor 92371,Electronics,Monitor,Everest,59.7,93.56,True,2022-12-02,0.69,XL,True
+92433,Quanta Notebook 92433,Office,Notebook,Quanta,30.94,38.68,True,2022-02-18,3.79,S,True
+92848,Solara Mouse 92848,Electronics,Mouse,Solara,55.19,110.24,True,2022-07-25,3.97,L,True
+93743,Fjord Tent 93743,Outdoors,Tent,Fjord,28.51,52.81,True,2025-08-10,0.86,XL,True
+93966,Radiant Headphones 93966,Electronics,Headphones,Radiant,52.54,84.26,True,2022-05-24,4.93,M,True
+93970,Apexon Paper 93970,Office,Paper,Apexon,134.67,241.63,True,2025-02-21,1.19,XL,True
+94818,Quanta Chair 94818,Office,Chair,Quanta,142.22,213.0,True,2021-02-11,5.25,L,True
+94930,Apexon Board Game 94930,Toys,Board Game,Apexon,41.37,64.96,False,2023-07-10,3.9,L,True
+96046,BluePeak Notebook 96046,Office,Notebook,BluePeak,40.09,57.28,True,2025-05-28,7.49,L,True
+96319,Quanta Charger 96319,Electronics,Charger,Quanta,39.15,49.92,True,2023-05-21,6.07,M,True
+96761,Vertex Desk 96761,Office,Desk,Vertex,63.27,83.73,True,2023-03-29,6.85,S,True
+99834,Solara Pen Set 99834,Office,Pen Set,Solara,13.84,17.79,False,2021-10-23,2.56,L,True
+10474,Northstar Bedding 10474,Home,Bedding,Northstar,24.17,35.82,True,2023-05-16,8.33,L,False
+14999,Apexon Tablet 14999,Electronics,Tablet,Apexon,23.95,50.36,True,2021-02-06,0.74,M,False
+20720,Fjord Notebook 20720,Office,Notebook,Fjord,17.8,34.55,True,2023-11-16,4.43,L,False
+21832,Apexon Backpack 21832,Outdoors,Backpack,Apexon,22.82,30.09,True,2024-03-16,2.55,XL,False
+30269,BluePeak Desk 30269,Office,Desk,BluePeak,58.74,118.93,True,2023-01-16,8.34,L,False
+32943,Nimbus Action Figure 32943,Toys,Action Figure,Nimbus,12.18,22.76,True,2024-03-01,11.97,L,False
+35060,Apexon Notebook 35060,Office,Notebook,Apexon,27.58,42.17,True,2023-02-22,10.96,S,False
+35654,Everest Conditioner 35654,Beauty,Conditioner,Everest,19.82,38.55,True,2024-11-19,8.22,S,False
+37011,BluePeak Printer 37011,Office,Printer,BluePeak,32.82,41.23,True,2025-09-15,9.76,M,False
+37272,Apexon Printer 37272,Office,Printer,Apexon,13.17,29.14,True,2021-07-10,9.96,L,False
+40697,Apexon Lantern 40697,Outdoors,Lantern,Apexon,56.76,86.27,True,2024-08-26,10.33,M,False
+40743,Radiant Air Purifier 40743,Home,Air Purifier,Radiant,40.29,50.94,True,2022-01-01,2.23,L,False
+50054,Northstar Doll 50054,Toys,Doll,Northstar,71.19,155.28,True,2024-06-07,10.2,L,False
+52109,Apexon Sunscreen 52109,Beauty,Sunscreen,Apexon,12.91,24.08,True,2025-02-19,5.53,XS,False
+53033,Vertex Printer 53033,Office,Printer,Vertex,29.75,58.76,True,2021-07-21,7.39,S,False
+54970,Nimbus Chair 54970,Office,Chair,Nimbus,12.57,25.33,True,2024-12-11,6.4,M,False
+55407,Radiant Lantern 55407,Outdoors,Lantern,Radiant,48.92,62.67,True,2025-01-08,9.47,XL,False
+55850,Apexon Hoodie 55850,Apparel,Hoodie,Apexon,79.0,109.96,True,2022-12-16,3.44,M,False
+59814,Aurora Headphones 59814,Electronics,Headphones,Aurora,16.53,27.52,True,2025-05-08,5.39,M,False
+62028,Northstar Puzzle 62028,Toys,Puzzle,Northstar,69.89,98.87,True,2023-03-14,3.13,M,False
+62425,Nimbus Pen Set 62425,Office,Pen Set,Nimbus,17.1,33.46,True,2021-12-03,0.82,M,False
+65994,Solara Laptop 65994,Electronics,Laptop,Solara,21.59,27.46,True,2024-07-31,7.73,L,False
+66234,Apexon Mouse 66234,Electronics,Mouse,Apexon,42.27,66.41,False,2025-04-20,4.86,S,False
+71555,Solara Jacket 71555,Apparel,Jacket,Solara,49.6,85.43,True,2022-02-15,10.7,L,False
+73025,Vertex Tablet 73025,Electronics,Tablet,Vertex,39.96,59.14,True,2025-07-16,11.92,S,False
+74741,BluePeak Tablet 74741,Electronics,Tablet,BluePeak,47.01,65.83,True,2024-05-19,9.75,M,False
+79786,Apexon Bedding 79786,Home,Bedding,Apexon,35.72,53.51,True,2021-03-21,6.23,M,False
+81336,Northstar Blocks 81336,Toys,Blocks,Northstar,27.81,40.24,False,2025-02-03,0.83,XS,False
+81719,Northstar Chair 81719,Office,Chair,Northstar,11.33,15.03,True,2025-03-09,10.72,M,False
+82684,Northstar Vacuum 82684,Home,Vacuum,Northstar,28.94,43.76,True,2023-10-16,3.54,M,False
+83466,Solara Paper 83466,Office,Paper,Solara,27.7,35.79,True,2023-04-17,4.65,M,False
+83891,Radiant Doll 83891,Toys,Doll,Radiant,49.16,75.96,True,2024-04-28,4.66,M,False
+85002,Fjord Sunscreen 85002,Beauty,Sunscreen,Fjord,24.29,33.23,False,2024-10-28,11.77,M,False
+88594,Everest Vacuum 88594,Home,Vacuum,Everest,118.12,182.78,True,2021-09-10,10.13,M,False
+90717,Nimbus Floor Mats 90717,Automotive,Floor Mats,Nimbus,51.87,79.2,True,2021-05-18,4.31,M,False
+92111,Nimbus Monitor 92111,Electronics,Monitor,Nimbus,23.85,42.4,True,2022-08-24,6.1,S,False
+95007,Apexon Notebook 95007,Office,Notebook,Apexon,59.73,80.98,True,2022-09-22,5.73,M,False
+99006,Everest Bedding 99006,Home,Bedding,Everest,29.74,47.07,True,2021-06-25,0.9,L,False
+99127,Apexon T-Shirt 99127,Apparel,T-Shirt,Apexon,73.76,118.31,True,2021-05-14,0.16,M,False
+99587,Apexon Backpack 99587,Outdoors,Backpack,Apexon,26.55,42.41,True,2021-03-26,7.68,M,False

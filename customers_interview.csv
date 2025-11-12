@@ -1,0 +1,58 @@
+customer_id,customer_name,customer_category,address_city,region,phone_number,contract_id,signup_date,is_active
+1394,Lily Lee,Startup,Los Angeles,West,(552) 949-2449,CTR599677,2024-05-08,True
+1572,Grayson Wright,Enterprise,Miami,East,(656) 633-5260,CTR953955,2023-02-26,True
+1610,Luna Brown,Enterprise,Chicago,Central,(845) 413-9583,CTR474635,2024-01-22,True
+1769,David Sanchez,Startup,Los Angeles,West,(464) 635-5685,CTR354050,2023-12-02,True
+1798,Zoey Nguyen,SMB,Phoenix,Central,(878) 550-3560,,2022-10-01,False
+1826,Layla Hall,Startup,New York,East,(217) 490-8435,CTR144328,2022-10-19,True
+1843,Noah Rodriguez,Individual,Portland,West,(207) 916-5884,,2022-03-08,False
+2147,Julian Green,Startup,Denver,Central,(312) 441-5985,,2022-06-03,True
+2484,Olivia Williams,Startup,Dallas,Central,(452) 286-6993,CTR106368,2023-04-20,True
+2636,Mia Martinez,Startup,Atlanta,East,(737) 294-3530,,2023-06-08,True
+2750,Zoey Thomas,SMB,Los Angeles,West,(394) 726-7571,CTR436252,2022-06-30,True
+2803,Joseph Martin,Enterprise,Seattle,West,(780) 950-7917,CTR933234,2023-04-02,False
+3039,Liam Baker,SMB,Atlanta,East,(456) 286-6531,,2023-10-24,True
+3485,Luna Allen,Enterprise,Chicago,Central,(931) 979-3071,,2022-09-12,True
+4185,James Williams,SMB,Miami,East,(388) 229-2271,CTR571377,2023-01-06,True
+4273,Jackson Campbell,Individual,San Francisco,West,(643) 636-4337,CTR904191,2023-02-07,True
+4323,John Perez,Enterprise,Atlanta,East,(447) 863-5139,CTR191504,2023-07-08,True
+4609,Nora Roberts,Enterprise,Atlanta,East,(845) 969-3853,,2023-02-06,True
+4874,Samuel Johnson,Enterprise,San Francisco,West,(361) 961-6712,CTR183988,2024-03-17,True
+4926,Amelia Sanchez,Enterprise,Portland,West,(432) 696-5634,CTR850111,2022-12-25,True
+4978,Isabella Green,Startup,Los Angeles,West,(923) 404-9921,CTR196067,2023-04-21,True
+5006,Joseph Anderson,Startup,Portland,West,(947) 344-2481,CTR146765,2023-02-20,True
+5036,Mason Roberts,Individual,New York,East,(625) 235-3688,CTR463683,2022-07-20,True
+5041,Grayson Lopez,Startup,Chicago,Central,(547) 974-9930,,2024-01-21,True
+5198,Samuel Davis,SMB,Denver,Central,(321) 912-1818,CTR932356,2022-09-15,True
+5478,Mia Allen,Individual,Chicago,Central,(798) 875-9016,CTR720444,2022-11-22,False
+5484,Sebastian White,Enterprise,Seattle,West,(378) 913-2043,CTR189201,2024-05-18,True
+5597,James Nelson,Enterprise,Atlanta,East,(614) 575-3843,,2024-11-04,True
+5713,Ellie Rodriguez,Enterprise,Chicago,Central,(217) 816-4019,,2024-01-05,True
+5893,James Walker,Startup,Dallas,Central,(728) 527-4362,CTR853417,2024-09-30,True
+5918,Lucas Thomas,SMB,San Francisco,West,(908) 275-7628,CTR859216,2024-07-24,True
+5977,Victoria Torres,Enterprise,Chicago,Central,(796) 503-3361,CTR820626,2023-06-11,True
+6673,Ava Davis,SMB,Miami,East,(204) 948-9528,CTR912386,2024-04-23,True
+6774,Sophia Miller,Enterprise,Portland,West,(392) 225-2104,,2022-12-26,True
+6855,Jackson Flores,Startup,Chicago,Central,(254) 864-9026,CTR315889,2023-05-20,False
+7095,Matthew Hill,SMB,Seattle,West,(322) 796-2613,CTR981612,2023-08-10,True
+7241,Riley Martin,SMB,San Diego,West,(493) 678-7478,,2024-11-17,True
+7294,Mason Thomas,SMB,Houston,Central,(898) 235-2767,CTR388626,2024-07-18,True
+7426,Benjamin Johnson,Startup,Miami,East,(424) 447-9981,CTR821822,2023-06-20,True
+7588,Olivia Thompson,SMB,Los Angeles,West,(821) 456-9745,CTR621427,2023-12-16,True
+7810,Nora Lewis,Enterprise,Boston,East,(598) 600-4902,CTR801529,2022-08-10,True
+7816,Alexander Campbell,Enterprise,Atlanta,East,(314) 946-1125,CTR665036,2024-05-30,False
+7833,David Miller,Non-profit,Miami,East,(339) 383-3513,CTR678234,2023-08-29,True
+7922,Emma Thompson,Non-profit,Seattle,West,(305) 214-7098,CTR654655,2023-08-07,True
+7999,Grace White,Startup,New York,East,(974) 297-3668,CTR801095,2024-04-19,True
+8008,Sophia Walker,Enterprise,Chicago,Central,(604) 941-7247,CTR765137,2023-11-25,True
+8041,Sebastian Hernandez,Non-profit,Houston,Central,(812) 664-4752,CTR221096,2022-03-21,False
+8380,Amelia Rodriguez,Individual,Los Angeles,West,(359) 890-8236,CTR843448,2022-11-12,True
+8432,Grace Roberts,Startup,Denver,Central,(220) 771-1759,CTR582460,2022-07-13,True
+8524,Riley Campbell,SMB,Denver,Central,(790) 859-2179,CTR390774,2024-03-15,True
+8682,Aurora Robinson,Enterprise,Portland,West,(546) 298-6104,,2022-02-08,False
+8706,James Perez,Enterprise,New York,East,(941) 264-4577,,2022-08-10,True
+8970,Amelia Brown,Non-profit,San Francisco,West,(977) 440-2189,CTR562800,2023-10-17,False
+9029,Charlotte Perez,SMB,Seattle,West,(590) 606-6965,CTR970284,2024-01-31,True
+9309,Jackson Flores,Enterprise,Denver,Central,(450) 963-5688,CTR871814,2023-07-06,False
+9724,Joseph Green,SMB,Dallas,Central,(428) 967-9322,CTR850327,2024-07-31,True
+9735,Grayson Hall,Startup,Denver,Central,(598) 219-6371,CTR516518,2024-10-03,True
